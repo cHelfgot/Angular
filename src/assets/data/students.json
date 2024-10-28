@@ -1,0 +1,50 @@
+[
+    {
+        "firstName": "moshe",
+        "lastName": "levi",
+        "age": 50,
+        "isBoy": true
+    },
+    {
+        "firstName": "biniamin",
+        "lastName": "israel",
+        "age": 20,
+        "isBoy": true
+    },
+    {
+        "firstName": "binim",
+        "lastName": "yakobi",
+        "age": 2,
+        "isBoy": true
+    },
+    {
+        "firstName": "eliezer",
+        "lastName": "levi",
+        "age": 32,
+        "isBoy": true
+    },
+    {
+        "firstName": "adina",
+        "lastName": "braun",
+        "age": 19,
+        "isBoy": false
+    },
+    {
+        "firstName": "sara",
+        "lastName": "shalom",
+        "age": 17,
+        "isBoy": false
+    },
+    {
+        "firstName": "leah",
+        "lastName": "yosef",
+        "age": 3,
+        "isBoy": false
+    },
+    {
+        "firstName": "shira",
+        "lastName": "levi",
+        "age": 100,
+        "isBoy": false
+    }
+]

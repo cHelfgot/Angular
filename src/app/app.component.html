@@ -1,0 +1,6 @@
+<div class="main" id="main">
+  <h1>Mouse Move</h1>
+   <div   *ngFor="let point of points" >
+      <span class="span"  [ngStyle]="{'left.px':  point.x, 'top.px':  point.y}"></span>
+  </div>  
+</div>
